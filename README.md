@@ -1,6 +1,6 @@
 # Olá, eu sou o Kayky! 👋
 
-### Ciência de Dados • Python + SQL • Machine Learning + GenAI • Portfólio focado em otimização de gargalos operacionais
+### Ciência de Dados • Python + SQL • Machine Learning + GenAI 
 
 Sou graduando em Ciência de Dados e Ciência e Tecnologia pela Universidade Federal do ABC (UFABC). O meu foco está no desenvolvimento de soluções inteligentes utilizando Inteligência Artificial, Machine Learning e Processamento de Linguagem Natural (NLP) para resolver problemas reais e otimizar processos.
 
