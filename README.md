@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Kayky! 👋
 
-<!--
-**KaykyTajima/KaykyTajima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ciência de Dados • Python + SQL • Machine Learning + GenAI • Portfólio focado em otimização de gargalos operacionais
 
-Here are some ideas to get you started:
+Sou graduando em Ciência de Dados e Ciência e Tecnologia pela Universidade Federal do ABC (UFABC). O meu foco está no desenvolvimento de soluções inteligentes utilizando Inteligência Artificial, Machine Learning e Processamento de Linguagem Natural (NLP) para resolver problemas reais e otimizar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL).
+* **IA e Dados:** Large Language Models (LLMs), Arquitetura RAG, LangChain.
+
+---
+
+### 🚀 Projetos em Destaque
+
+**Assistente Conversacional "Voyager"**
+Desenvolvimento de um agente de IA focado em planeamento turístico utilizando LangChain, Gemini API e arquitetura RAG.
+
+**Inteligência de E-commerce e Web Scraping**
+Otimização de fluxos operacionais e de precificação através da recolha e análise de dados do Mercado Livre, focada no crescimento de vendas.
+
+**Previsão de Impactos Ambientais**
+Projeto de pesquisa focado na modelagem preditiva de impactos em barragens de mineração, utilizando algoritmos de Random Forest e KNN.
+
+
