@@ -21,7 +21,7 @@ Desenvolvimento de um agente de IA focado em planeamento turístico utilizando L
 **Inteligência de E-commerce e Web Scraping**
 Otimização de fluxos operacionais e de precificação através da recolha e análise de dados do Mercado Livre, focada no crescimento de vendas.
 
-**Previsão de Impactos Ambientais**
-Projeto de pesquisa focado na modelagem preditiva de impactos em barragens de mineração, utilizando algoritmos de Random Forest e KNN.
+**Panorama Global de Desigualdade**
+Análise exploratória de dados e mapeamento de indicadores socioeconômicos em escala mundial. O projeto foca em identificar padrões de disparidade e desenvolvimento, utilizando Python (Pandas, Matplotlib/Seaborn) para extrair insights sobre o cenário educacional e econômico global.
 
 
